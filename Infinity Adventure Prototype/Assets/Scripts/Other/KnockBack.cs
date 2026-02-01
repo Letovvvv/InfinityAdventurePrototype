@@ -37,6 +37,6 @@ public class KnockBack : MonoBehaviour
     public void StopKnockBackMovement()
     {
         IsGettingKnockedBack = false;
-        _rigidbody2D.velocity = Vector2.zero;
+        _rigidbody2D.linearVelocity = Vector2.zero;
     }
 }
