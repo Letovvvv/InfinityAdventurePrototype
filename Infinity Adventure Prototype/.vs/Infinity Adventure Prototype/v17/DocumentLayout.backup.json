@@ -1,0 +1,295 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alext\\Infinity Adventure Prototype\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C95E3F6F-8AF9-6DBA-A150-642213EFCAAF}|Assembly-CSharp.csproj|C:\\Users\\alext\\Infinity Adventure Prototype\\assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95E3F6F-8AF9-6DBA-A150-642213EFCAAF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95E3F6F-8AF9-6DBA-A150-642213EFCAAF}|Assembly-CSharp.csproj|c:\\users\\alext\\infinity adventure prototype\\assets\\scripts\\playershadow\\playershadow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95E3F6F-8AF9-6DBA-A150-642213EFCAAF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playershadow\\playershadow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95E3F6F-8AF9-6DBA-A150-642213EFCAAF}|Assembly-CSharp.csproj|c:\\users\\alext\\infinity adventure prototype\\assets\\scripts\\player\\playervisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95E3F6F-8AF9-6DBA-A150-642213EFCAAF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playervisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95E3F6F-8AF9-6DBA-A150-642213EFCAAF}|Assembly-CSharp.csproj|C:\\Users\\alext\\Infinity Adventure Prototype\\assets\\scripts\\enviroment\\destructibleplantvisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95E3F6F-8AF9-6DBA-A150-642213EFCAAF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enviroment\\destructibleplantvisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95E3F6F-8AF9-6DBA-A150-642213EFCAAF}|Assembly-CSharp.csproj|C:\\Users\\alext\\Infinity Adventure Prototype\\assets\\scripts\\enviroment\\destructibleplant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95E3F6F-8AF9-6DBA-A150-642213EFCAAF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enviroment\\destructibleplant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95E3F6F-8AF9-6DBA-A150-642213EFCAAF}|Assembly-CSharp.csproj|C:\\Users\\alext\\Infinity Adventure Prototype\\assets\\scripts\\other\\selfdestroyvfx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95E3F6F-8AF9-6DBA-A150-642213EFCAAF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\other\\selfdestroyvfx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95E3F6F-8AF9-6DBA-A150-642213EFCAAF}|Assembly-CSharp.csproj|C:\\Users\\alext\\Infinity Adventure Prototype\\assets\\scripts\\skeleton\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95E3F6F-8AF9-6DBA-A150-642213EFCAAF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\skeleton\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95E3F6F-8AF9-6DBA-A150-642213EFCAAF}|Assembly-CSharp.csproj|C:\\Users\\alext\\Infinity Adventure Prototype\\assets\\scripts\\skeleton\\enemyentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95E3F6F-8AF9-6DBA-A150-642213EFCAAF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\skeleton\\enemyentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95E3F6F-8AF9-6DBA-A150-642213EFCAAF}|Assembly-CSharp.csproj|C:\\Users\\alext\\Infinity Adventure Prototype\\assets\\scripts\\gameinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95E3F6F-8AF9-6DBA-A150-642213EFCAAF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95E3F6F-8AF9-6DBA-A150-642213EFCAAF}|Assembly-CSharp.csproj|C:\\Users\\alext\\Infinity Adventure Prototype\\assets\\scripts\\weapon\\sword\\swordvisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95E3F6F-8AF9-6DBA-A150-642213EFCAAF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapon\\sword\\swordvisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95E3F6F-8AF9-6DBA-A150-642213EFCAAF}|Assembly-CSharp.csproj|C:\\Users\\alext\\Infinity Adventure Prototype\\assets\\scripts\\weapon\\sword\\sword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95E3F6F-8AF9-6DBA-A150-642213EFCAAF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapon\\sword\\sword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95E3F6F-8AF9-6DBA-A150-642213EFCAAF}|Assembly-CSharp.csproj|C:\\Users\\alext\\Infinity Adventure Prototype\\assets\\scripts\\skeleton\\skeletonvisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95E3F6F-8AF9-6DBA-A150-642213EFCAAF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\skeleton\\skeletonvisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95E3F6F-8AF9-6DBA-A150-642213EFCAAF}|Assembly-CSharp.csproj|C:\\Users\\alext\\Infinity Adventure Prototype\\assets\\scripts\\other\\knockback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95E3F6F-8AF9-6DBA-A150-642213EFCAAF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\other\\knockback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95E3F6F-8AF9-6DBA-A150-642213EFCAAF}|Assembly-CSharp.csproj|C:\\Users\\alext\\Infinity Adventure Prototype\\assets\\scripts\\other\\flashblink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95E3F6F-8AF9-6DBA-A150-642213EFCAAF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\other\\flashblink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95E3F6F-8AF9-6DBA-A150-642213EFCAAF}|Assembly-CSharp.csproj|C:\\Users\\alext\\Infinity Adventure Prototype\\assets\\scripts\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95E3F6F-8AF9-6DBA-A150-642213EFCAAF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95E3F6F-8AF9-6DBA-A150-642213EFCAAF}|Assembly-CSharp.csproj|C:\\Users\\alext\\Infinity Adventure Prototype\\assets\\scripts\\navmeshsurfasemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95E3F6F-8AF9-6DBA-A150-642213EFCAAF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\navmeshsurfasemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95E3F6F-8AF9-6DBA-A150-642213EFCAAF}|Assembly-CSharp.csproj|C:\\Users\\alext\\Infinity Adventure Prototype\\assets\\scripts\\scriptableobjects\\enemyso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95E3F6F-8AF9-6DBA-A150-642213EFCAAF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptableobjects\\enemyso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Utils.cs",
+              "DocumentMoniker": "C:\\Users\\alext\\Infinity Adventure Prototype\\Assets\\Scripts\\Utils.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Utils.cs",
+              "ToolTip": "C:\\Users\\alext\\Infinity Adventure Prototype\\Assets\\Scripts\\Utils.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Utils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T14:04:25.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NavMeshSurfaseManagement.cs",
+              "DocumentMoniker": "C:\\Users\\alext\\Infinity Adventure Prototype\\Assets\\Scripts\\NavMeshSurfaseManagement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NavMeshSurfaseManagement.cs",
+              "ToolTip": "C:\\Users\\alext\\Infinity Adventure Prototype\\Assets\\Scripts\\NavMeshSurfaseManagement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NavMeshSurfaseManagement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T12:44:51.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SelfDestroyVFX.cs",
+              "DocumentMoniker": "C:\\Users\\alext\\Infinity Adventure Prototype\\Assets\\Scripts\\Other\\SelfDestroyVFX.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Other\\SelfDestroyVFX.cs",
+              "ToolTip": "C:\\Users\\alext\\Infinity Adventure Prototype\\Assets\\Scripts\\Other\\SelfDestroyVFX.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Other\\SelfDestroyVFX.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwBMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T12:25:48.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DestructiblePlantVisual.cs",
+              "DocumentMoniker": "C:\\Users\\alext\\Infinity Adventure Prototype\\Assets\\Scripts\\Enviroment\\DestructiblePlantVisual.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enviroment\\DestructiblePlantVisual.cs",
+              "ToolTip": "C:\\Users\\alext\\Infinity Adventure Prototype\\Assets\\Scripts\\Enviroment\\DestructiblePlantVisual.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enviroment\\DestructiblePlantVisual.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T12:09:08.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DestructiblePlant.cs",
+              "DocumentMoniker": "C:\\Users\\alext\\Infinity Adventure Prototype\\Assets\\Scripts\\Enviroment\\DestructiblePlant.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enviroment\\DestructiblePlant.cs",
+              "ToolTip": "C:\\Users\\alext\\Infinity Adventure Prototype\\Assets\\Scripts\\Enviroment\\DestructiblePlant.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enviroment\\DestructiblePlant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T15:38:33.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SwordVisual.cs",
+              "DocumentMoniker": "C:\\Users\\alext\\Infinity Adventure Prototype\\Assets\\Scripts\\Weapon\\Sword\\SwordVisual.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapon\\Sword\\SwordVisual.cs",
+              "ToolTip": "C:\\Users\\alext\\Infinity Adventure Prototype\\Assets\\Scripts\\Weapon\\Sword\\SwordVisual.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapon\\Sword\\SwordVisual.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T15:32:06.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "KnockBack.cs",
+              "DocumentMoniker": "C:\\Users\\alext\\Infinity Adventure Prototype\\Assets\\Scripts\\Other\\KnockBack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Other\\KnockBack.cs",
+              "ToolTip": "C:\\Users\\alext\\Infinity Adventure Prototype\\Assets\\Scripts\\Other\\KnockBack.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Other\\KnockBack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T08:59:32.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnemyEntity.cs",
+              "DocumentMoniker": "C:\\Users\\alext\\Infinity Adventure Prototype\\Assets\\Scripts\\Skeleton\\EnemyEntity.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Skeleton\\EnemyEntity.cs",
+              "ToolTip": "C:\\Users\\alext\\Infinity Adventure Prototype\\Assets\\Scripts\\Skeleton\\EnemyEntity.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Skeleton\\EnemyEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T14:13:16.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EnemySO.cs",
+              "DocumentMoniker": "C:\\Users\\alext\\Infinity Adventure Prototype\\Assets\\Scripts\\ScriptableObjects\\EnemySO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptableObjects\\EnemySO.cs",
+              "ToolTip": "C:\\Users\\alext\\Infinity Adventure Prototype\\Assets\\Scripts\\ScriptableObjects\\EnemySO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptableObjects\\EnemySO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T07:25:27.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Sword.cs",
+              "DocumentMoniker": "C:\\Users\\alext\\Infinity Adventure Prototype\\Assets\\Scripts\\Weapon\\Sword\\Sword.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapon\\Sword\\Sword.cs",
+              "ToolTip": "C:\\Users\\alext\\Infinity Adventure Prototype\\Assets\\Scripts\\Weapon\\Sword\\Sword.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapon\\Sword\\Sword.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T13:33:53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SkeletonVisual.cs",
+              "DocumentMoniker": "C:\\Users\\alext\\Infinity Adventure Prototype\\Assets\\Scripts\\Skeleton\\SkeletonVisual.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Skeleton\\SkeletonVisual.cs",
+              "ToolTip": "C:\\Users\\alext\\Infinity Adventure Prototype\\Assets\\Scripts\\Skeleton\\SkeletonVisual.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Skeleton\\SkeletonVisual.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T08:34:35.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnemyAI.cs",
+              "DocumentMoniker": "C:\\Users\\alext\\Infinity Adventure Prototype\\Assets\\Scripts\\Skeleton\\EnemyAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Skeleton\\EnemyAI.cs",
+              "ToolTip": "C:\\Users\\alext\\Infinity Adventure Prototype\\Assets\\Scripts\\Skeleton\\EnemyAI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Skeleton\\EnemyAI.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAYwJsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T08:48:42.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameInput.cs",
+              "DocumentMoniker": "C:\\Users\\alext\\Infinity Adventure Prototype\\Assets\\Scripts\\GameInput.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameInput.cs",
+              "ToolTip": "C:\\Users\\alext\\Infinity Adventure Prototype\\Assets\\Scripts\\GameInput.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T09:16:00.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FlashBlink.cs",
+              "DocumentMoniker": "C:\\Users\\alext\\Infinity Adventure Prototype\\Assets\\Scripts\\Other\\FlashBlink.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Other\\FlashBlink.cs",
+              "ToolTip": "C:\\Users\\alext\\Infinity Adventure Prototype\\Assets\\Scripts\\Other\\FlashBlink.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Other\\FlashBlink.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T09:43:08.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\alext\\Infinity Adventure Prototype\\Assets\\Scripts\\Player\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Player.cs",
+              "ToolTip": "C:\\Users\\alext\\Infinity Adventure Prototype\\Assets\\Scripts\\Player\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T08:15:51.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerVisual.cs",
+              "DocumentMoniker": "C:\\Users\\alext\\Infinity Adventure Prototype\\Assets\\Scripts\\Player\\PlayerVisual.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerVisual.cs",
+              "ToolTip": "C:\\Users\\alext\\Infinity Adventure Prototype\\Assets\\Scripts\\Player\\PlayerVisual.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerVisual.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T14:56:37.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerShadow.cs",
+              "DocumentMoniker": "C:\\Users\\alext\\Infinity Adventure Prototype\\Assets\\Scripts\\PlayerShadow\\PlayerShadow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerShadow\\PlayerShadow.cs",
+              "ToolTip": "C:\\Users\\alext\\Infinity Adventure Prototype\\Assets\\Scripts\\PlayerShadow\\PlayerShadow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerShadow\\PlayerShadow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T14:41:54.99Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
